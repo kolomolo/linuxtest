@@ -25,7 +25,7 @@ Fix Dockerfile in the repo so you can see "Hello Kolomolo" in your browser on ht
 
 
 
-# Learn Something New
+# Part 3/ Learn Something New
 Setup 2 linux machines for free on a cloud provider of your choice.
 Server A should be setup to be a salt master 
  - https://docs.saltproject.io/en/latest/topics/installation/index.html
@@ -34,9 +34,10 @@ Server A should be setup to be a salt master
 Server B to be salt minion, that connects to the master
  - Allow port 80 on the cloud firewall (if any), so we can reach see the Hello Kolomolo message.
 
-On completion send upload to the repo:
+#On completion of Test
+Upload to your repo:
 - Readme file with the Answers to Section 1
 - The corrected Docker file
 - Top.sls and state files in a dir called salt
 
-Send the answers to test@kolomolo.com.
+Send the link to your repo to test@kolomolo.com
