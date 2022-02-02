@@ -34,7 +34,8 @@ Server A should be setup to be a salt master
 Server B to be salt minion, that connects to the master
  - Allow port 80 on the cloud firewall (if any), so we can reach see the Hello Kolomolo message.
 
-#On completion of Test
+
+# On completion of Test
 Upload to your repo:
 - Readme file with the Answers to Section 1
 - The corrected Docker file
