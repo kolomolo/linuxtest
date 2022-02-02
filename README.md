@@ -2,14 +2,14 @@ There is no time limit for this test.  To be able to score 100% on this test, it
 
 # Part 1/ General Knowledge
 #### 1/ Explain what this command does:
-ps -ef | grep python | wc -l
+```ps -ef | grep python | wc -l```
 
 #### 2/ Is 172.56.23.5 a public or private IP address?
 
 #### 3/ How many IP address are available in this subnet 192.168.0.0 / 28
 
 #### 4/ Explain what this command does:
-lsof | grep /tmp 2>&1 | awk {'print $2'} | sort -u
+```lsof | grep /tmp 2>&1 | awk {'print $2'} | sort -u```
 
 #### 5/ How would you check the status of a service running on a centos 8 machine?
 
